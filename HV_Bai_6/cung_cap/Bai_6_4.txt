@@ -1,0 +1,3 @@
+danh_sach_thuc_uong = ['Bạc Xỉu Đá', 'Freeze Trà Xanh',
+                       'Trà Thạch Vải', 'Trà Thanh Đào',
+                       'Cappuccino', 'Cà Phê Sữa Đá']
