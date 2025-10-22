@@ -2,8 +2,7 @@
 
 ## Giới thiệu
 Đây là repo lưu lại các bài tập và kiến thức trong quá trình học Python của mình.  
-Mục tiêu: nắm vững cú pháp cơ bản, làm quen với thư viện và áp dụng vào các dự án nhỏ.
-
+Mục tiêu: nắm vững cú pháp cơ bản, làm quen với thư viện và áp dụng vào các dự án nhỏ
 ---
 
 ## Nội dung chính
